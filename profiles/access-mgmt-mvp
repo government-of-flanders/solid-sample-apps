@@ -1,0 +1,10 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix solid: <http://www.w3.org/ns/solid/terms#>.
+@prefix oidc: <https://www.w3.org/ns/solid/oidc#>.
+
+<https://github.com/government-of-flanders/solid-sample-apps/blob/main/profiles/access-mgmt-mvp>
+	a						foaf:Agent ;
+	oidc:client_name		"DNB Access Management MVP" ;
+	oidc:client_uri			<https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf> ;
+	oidc:logo_uri			<https://assets.vlaanderen.be/image/upload/c_fill,dpr_1.0,h_180,q_auto:eco,w_180/datanutsbedrijf_homepage_afbeelding_accolade_bc2jeq> ;
+	solid:oidcIssuer		<https://github.com/government-of-flanders/solid-sample-apps/blob/main/idp> .
