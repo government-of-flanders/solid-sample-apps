@@ -1,4 +1,4 @@
 {
-  "issuer": "https://github.com/government-of-flanders/solid-sample-apps/blob/main/idp",
-  "jwks_uri": "https://github.com/government-of-flanders/solid-sample-apps/blob/main/idp/jwks/jwks.json"
+  "issuer": "https://raw.githubusercontent.com/government-of-flanders/solid-sample-apps/main/idp",
+  "jwks_uri": "https://raw.githubusercontent.com/government-of-flanders/solid-sample-apps/main/idp/jwks/jwks.json"
 }
