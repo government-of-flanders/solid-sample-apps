@@ -2,7 +2,7 @@
 @prefix solid: <http://www.w3.org/ns/solid/terms#>.
 @prefix oidc: <https://www.w3.org/ns/solid/oidc#>.
 
-<https://raw.githubusercontent.com/government-of-flanders/solid-sample-apps/main/profiles/sample-agent>
+<https://gitcdn.link/cdn/government-of-flanders/solid-sample-apps/main/profiles/sample-agent.ttl>
 	a						foaf:Agent ;
 	oidc:client_name		"DNB Sample Agent" ;
 	oidc:client_uri			<https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf> ;
