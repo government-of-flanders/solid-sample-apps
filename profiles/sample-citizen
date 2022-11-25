@@ -2,6 +2,6 @@
 @prefix solid: <http://www.w3.org/ns/solid/terms#>.
 @prefix oidc: <https://www.w3.org/ns/solid/oidc#>.
 
-<https://github.com/government-of-flanders/solid-sample-apps/blob/main/profiles/sample-citizen>
+<https://raw.githubusercontent.com/government-of-flanders/solid-sample-apps/main/profiles/sample-citizen>
 	a						foaf:Agent ;
-	solid:oidcIssuer		<https://github.com/government-of-flanders/solid-sample-apps/blob/main/idp> .
+	solid:oidcIssuer		<https://raw.githubusercontent.com/government-of-flanders/solid-sample-apps/main/idp> .
